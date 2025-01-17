@@ -9,9 +9,6 @@ files:
   - name: data.py
     visible: true
     learner_created: true
-  - name: Day 16.cs
-    visible: true
-    learner_created: true
 status: Solved
 record: -1
 post_submission_on_open: true
